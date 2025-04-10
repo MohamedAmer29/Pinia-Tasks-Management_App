@@ -1,29 +1,19 @@
-# pinia-tasks
+# Todo Tasks With Pinia in Project Management and Vue js in frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+### You can Manage your tasks with This app
 
-## Recommended IDE Setup
+![1744286560104](image/README/1744286560104.png)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### And you can put a Piriority to a task by Clicking Fav Icon
 
-## Customize configuration
+![1744286754866](image/README/1744286754866.png)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### And it will be Showen in Fav List
 
-## Project Setup
+![1744286861212](image/README/1744286861212.png)
 
-```sh
-npm install
+## You can Donwload The zip file and run ` json-server` to db.json file in data folder
+
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+json-server "./data/db.json"
 ```
